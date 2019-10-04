@@ -1,6 +1,6 @@
 package pl.coderslab.controller;
 
-import pl.coderslab.dao.UserDao;
+import pl.coderslab.dao.impl.UserDao;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
